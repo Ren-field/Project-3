@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 872 239.978">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-3, .cls-9 {
+        fill: #0627cc;
+      }
+
+      .cls-1, .cls-10, .cls-9 {
+        stroke: rgba(112,112,112,0);
+        font-weight: 600;
+      }
+
+      .cls-1 {
+        font-size: 18px;
+      }
+
+      .cls-1, .cls-10 {
+        font-family: Poppins-SemiBoldItalic, Poppins;
+        font-style: italic;
+      }
+
+      .cls-2, .cls-8 {
+        fill: #8d0019;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #8d0019;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #0627cc;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 3.92 2.94 3.92 2.94;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 2.94 3.92 3.92 2.94 3.92 2.94;
+      }
+
+      .cls-10, .cls-9 {
+        font-size: 62px;
+      }
+
+      .cls-9 {
+        font-family: Poppins-SemiBold, Poppins;
+      }
+    </style>
+  </defs>
+  <g id="Group_44" data-name="Group 44" transform="translate(-577.5 -13.522)">
+    <text id="Years_of_Nurturing_Care" data-name="Years of Nurturing Care" class="cls-1" transform="translate(850.5 226.5)"><tspan x="0" y="19">Years of Nurturing Care</tspan></text>
+    <g id="Asset_2" data-name="Asset 2" transform="translate(830.518 13.519)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(-0.518 0.485)">
+        <path id="Path_12" data-name="Path 12" class="cls-2" d="M264.81,14.736a16.933,16.933,0,0,1-1.848,2.648c-2.487,2.734-6.625,3.5-10.219,2.691s-6.761-2.946-9.606-5.305c-2.555-2.095-4.914-4.42-7.792-6.012s-6.4-2.393-9.461-1.184c-.349-3.134,2.367-5.961,5.416-6.77s6.293.043,9.24,1.167a46.385,46.385,0,0,1,9.6,5.016c1.993,1.371,3.985,2.938,6.361,3.347,2.844.494,5.663-.741,8.286-1.942,1.3-.6,2.6-1.218,3.934-1.7C269.17,9.2,266.113,12.582,264.81,14.736Z" transform="translate(-27.623 -0.485)"/>
+        <path id="Path_13" data-name="Path 13" class="cls-2" d="M277.357,15.18,236.294,73.785c6.523,8.89,11.922,16.887,18.9,25.4l-8.516,8.218a4.352,4.352,0,0,0-1.405,1.976,4.088,4.088,0,0,0,.145,2.018c3.7,14.707,24.006,46.709,25.717,48.539a1.7,1.7,0,0,1,.375.477v.1c-.349.179-3.7-1.882-6.259-3.7-14.877-10.568-22.32-15.848-26.4-19.935C233.8,131.845,228,127.63,222.575,123c-1.116-.954-2.367-1.959-3.841-1.967a5.774,5.774,0,0,0-3.049,1.15,30.656,30.656,0,0,0-10.968,12.382c0-16.58-.128-31.806-.162-48.386l7.375-.545c-19.782-18.411-39.368-37.512-59.09-55.914,10.951,5,21.536,10.142,32.624,14.834,9.367,3.977,19.339,7.92,29.464,6.727,7.136-.852,13.71-4.164,19.961-7.664C249.561,35.286,264.532,26.148,277.357,15.18Z" transform="translate(-16.786 -2.666)"/>
+        <path id="Path_14" data-name="Path 14" class="cls-3" d="M60.831,122.081a75.152,75.152,0,0,0,12.476,15L73,88.64a34.607,34.607,0,0,1-7.511,0Q96.665,61.322,126.1,32.13c-11.7,5.629-23.41,11.258-35.366,16.316-6.157,2.606-12.458,5.109-19.092,5.842-6.063.7-12.186-.051-18.266-.622-8.26-.775-16.657-1.209-24.823.3S12.377,59.074,6.91,65.324-1.155,80.652,1.579,88.478c1.746,5.016,5.416,9.112,9.274,12.774a24.307,24.307,0,0,1-.741-16.035c1.712-5.178,5.825-9.674,11.07-11.139s11.471.494,14.392,5.109a17.934,17.934,0,0,1,2.342,7.579,41.522,41.522,0,0,1-.536,13.063c-1.49,7.324-4.931,14.076-8.328,20.736-4.317,8.448-6.37,12.722-8.763,17.151-3.8,7.034-8.967,16.376-15.4,27.4,8.865-5.782,18.147-12.28,27.693-19.586C42.974,137.614,52.375,129.7,60.831,122.081Z" transform="translate(-0.482 -5.182)"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-3" cx="16.844" cy="16.844" r="16.844" transform="translate(47.754 10.104)"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="16.844" cy="16.844" r="16.844" transform="translate(176.606 10.104)"/>
+        <path id="Path_15" data-name="Path 15" class="cls-4" d="M0,0H1.277" transform="translate(31.388 159.912)"/>
+        <line id="Line_11" data-name="Line 11" class="cls-5" x2="10.449" transform="translate(36.003 159.912)"/>
+        <line id="Line_12" data-name="Line 12" class="cls-6" x2="174.18" transform="translate(47.704 159.912)"/>
+        <line id="Line_13" data-name="Line 13" class="cls-7" x2="1.277" transform="translate(223.135 159.912)"/>
+      </g>
+      <g id="drawing_of_logo" data-name="drawing of logo" transform="translate(118.862 100.268)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-8" width="17.602" height="32.93"/>
+      </g>
+    </g>
+    <text id="Helping" class="cls-9" transform="translate(578.5 41.5)"><tspan x="0" y="65">Helping</tspan></text>
+    <text id="Hand_Home" data-name="Hand Home" class="cls-9" transform="translate(1075.5 41.5)"><tspan x="0" y="65">Hand Home</tspan></text>
+    <text id="_125" data-name="125" class="cls-10" transform="translate(910.5 160.5)"><tspan x="0" y="65">125</tspan></text>
+  </g>
+</svg>
